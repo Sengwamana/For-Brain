@@ -162,5 +162,3 @@ Automate, monitor, run, manage, and engage with your students, parents, and staf
 
 ## Step-by-step Instructions on Installation & Configuration
 For comprehensive, step-by-step instructions on installation and configuration, please visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
-# Website
-https://www.fobrain.com
